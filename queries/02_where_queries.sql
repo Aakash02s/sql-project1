@@ -1,0 +1,1 @@
+select * from students where department="it" order by student_id ASC;
