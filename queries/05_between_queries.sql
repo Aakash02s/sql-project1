@@ -1,0 +1,1 @@
+select * from students where cgpa between  6 and 7;
